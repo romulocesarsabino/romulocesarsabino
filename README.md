@@ -5,16 +5,16 @@
   <img height="175em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romulocesarsabino&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<div style="display: inline_block"><center><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="Romulo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Romulo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Romulo-BOOTSTRAP" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Romulo-TYPESCRIPT" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 <img align="center" alt="Romulo-JAVASCRIPT" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Romulo-REACT" height="35" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-  </center></div><br>
+  </div><br>
  
-<div> 
+<div align="center"> 
   <a href="https://www.youtube.com/channel/UCpsSNjKl7fWuq6S8Uofmnww" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/romulowesker" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto: romulowesker92@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
