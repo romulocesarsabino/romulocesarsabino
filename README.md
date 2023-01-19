@@ -12,7 +12,7 @@
   <img align="center" alt="Romulo-TYPESCRIPT" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 <img align="center" alt="Romulo-JAVASCRIPT" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Romulo-REACT" height="35" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-#
+
  
 <div> 
   <a href="https://www.youtube.com/channel/UCpsSNjKl7fWuq6S8Uofmnww" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
