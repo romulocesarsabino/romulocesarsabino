@@ -1,8 +1,8 @@
 <div align="center"><b>## Oiii eu sou o Rômulo César, criador de conteúdo de programação e tecnologia!</b></div>
 <div align="center">
   <a href="https://github.com/romulocesarsabino">
-  <img height="175em" width="50%" src="https://github-readme-stats.vercel.app/api?username=romulocesarsabino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="175em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romulocesarsabino&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="175em" width="45%" src="https://github-readme-stats.vercel.app/api?username=romulocesarsabino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="175em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romulocesarsabino&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block" align="center"><br>
