@@ -1,4 +1,5 @@
-<div align="center"><b>## Oiii eu sou o Rômulo César, criador de conteúdo de programação e tecnologia!</b></div>
+<div align="center"><b>Olá! eu sou o Rômulo César, estudante de programação e tecnologia!</b></div>
+<br>
 <div align="center">
   <a href="https://github.com/romulocesarsabino">
   <img height="175em" width="45%" src="https://github-readme-stats.vercel.app/api?username=romulocesarsabino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
